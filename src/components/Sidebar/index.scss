@@ -1,0 +1,129 @@
+// .sidebar {
+//     height: 80vh;
+//     display: flex;
+
+//     justify-content: center;
+// }
+
+// .sidebar img {
+//     height: 40vh;
+//     width: 40vh;
+//     margin-top: 10vh;
+
+// }
+
+// title__name {
+
+//     justify-content: center;
+// }
+
+// * {
+//   border: 1px dashed red;
+// }
+
+.body {
+  font-family: 'Space Mono';
+}
+
+.sidebar {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar img {
+  height: 40vh;
+  width: 40vh;
+  margin-top: 10vh;
+}
+
+.title__name {
+  margin-top: 2vh;
+  text-align: center;
+  font-family: 'Space Mono';
+}
+
+.title__job {
+  font-family: 'Space Mono';
+  margin-top: -1em;
+}
+
+.email {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.email__btn {
+  width: 50%;
+  height: 2.5em;
+  background-color: black;
+  font-family: 'Space Mono';
+  color: white;
+}
+
+.sidebar-content {
+  margin-top: 2vh;
+}
+
+.sidebar nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.sidebar nav a {
+  margin: 0 1rem;
+}
+
+.right-section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  height: 40%;
+  margin-top: -6em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title__about {
+  font-family: 'Space Mono';
+  display: flex;
+  justify-content: center;
+}
+
+.about__text {
+  font-family: 'Space Mono';
+  width: 50%;
+}
+
+.buttons {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6.8em;
+}
+
+.buttons__cv {
+  width: 40%;
+  height: 2.5em;
+  background-color: black;
+  font-family: 'Space Mono';
+  color: white;
+}
+
+.buttons__portfolio {
+  width: 40%;
+  height: 2.5em;
+  background-color: black;
+  font-family: 'Space Mono';
+  color: white;
+}
