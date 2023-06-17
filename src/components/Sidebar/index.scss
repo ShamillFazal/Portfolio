@@ -59,10 +59,18 @@
 .email__btn {
   width: 50%;
   height: 2.5em;
+  font-family: 'Space Mono';
+  color: white;
+}
+
+.email__btn--btn {
+  width: 100%;
+  height: 2.5em;
   background-color: black;
   font-family: 'Space Mono';
   color: white;
 }
+
 
 .sidebar-content {
   margin-top: 2vh;
