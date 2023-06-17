@@ -13,7 +13,7 @@ const Layout = () => {
         <div className="content">
         <h1 className='title__about'>&lt;About Me&gt;</h1>
         <p className='about__text'>
-        I am a diligent senior software engineer with 10 years of experience in business applications. I am eager to join a tech company that builds out-of-the-box solutions for regional clients. I am skilled in developing plans, managing projects, and user documentation.
+        Former electrician, School of Code bootcamp graduate pursuing my passion for technology. With a strong background in problem-solving and attention to detail, I bring a methodical approach to crafting user-friendly applications. Proficient in HTML, CSS, JavaScript, and frameworks like React and Node.js.
         </p>
 
         </div>
